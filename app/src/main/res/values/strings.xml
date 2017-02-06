@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">LegaGladio</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_world_main_fragment">Ciao bello! Qui ci andra\' del testo scritto da quel testone del Komandante</string>
+    <string name="hello_world_coach_fragment">Hello world, Coach Fragment here!</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_world_team_fragment">Hello world! Team fragment here!</string>
+</resources>
